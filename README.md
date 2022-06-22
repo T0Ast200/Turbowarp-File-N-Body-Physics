@@ -7,4 +7,4 @@ Html that will open in your browser for you to play with.
 I am deeply sorry for making such a complicated proccess, but I couldn't find an easier way without spending lots of time on it. I hope you enjoy the project
 Nonetheless!
 
-    Thanks from - T0Ast200/Shrekosaurus_Rex  <3
+    Thanks from - T0Ast200/Shrekosaurus_Rex
